@@ -48,7 +48,7 @@ Penguin-Species-Prediction/
 1. Clone this repository:
 
 ```bash
-git clone <>
+git clone https://github.com/savanipatil-6507/ML_12_40.git
 ```
 
 2. Install the required libraries:
